@@ -1,0 +1,22 @@
+Desenvolvimento 8
+Aluno: Alex Barros
+Data: 19/04/2023.
+
+\{^_^}/ hi!
+
+  Loading animais.json
+  Done
+
+  Resources
+  http://localhost:3000/animais
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  GET /animais 200 9.485 ms - 87
+  POST /animais 201 14.567 ms - 634
+  PUT /animais/3 200 15.888 ms - 624
+  DELETE /animais/2 200 32.474 ms - 2
+  GET /grupo/1?_embed=animais 200 32.813 ms - 54
+  GET /grupo/2?_embed=animais 200 12.940 ms - 56
