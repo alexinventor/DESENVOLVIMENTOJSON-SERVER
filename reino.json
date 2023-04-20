@@ -1,0 +1,56 @@
+{
+    "animais": [
+    {
+        "id": 1,
+        "nome": "Polvo",
+        "patas": 8,
+        "classe": "Moluscos"
+    },
+    {
+        "id": 2,
+        "nome": "Pirarara",
+        "patas": 0,
+        "classe": "Peixes"
+    },
+    {
+        "id": 3,
+        "nome": "Aranha",
+        "patas": 8,
+        "classe": "aracnídeos"
+    },
+    {
+        "id": 4,
+        "nome": "Golfinho",
+        "patas": "0",
+        "classe": "Mamífero"
+    },
+    {
+        "id": 5,
+        "nome": "Jacaré",
+        "patas": 4,
+        "classe": "Reptéis"
+    },
+    {
+        "id": 6,
+        "nome": "Girafa",
+        "patas": "4",
+        "classe": "Mamífero"
+    },
+    {
+        "id": 7,
+        "nome": "Cavalo",
+        "patas": "4",
+        "classe": "Mamifero"
+    }
+    ],
+    "grupo": [
+    {
+        "id": 1,
+        "nome": "Vertebrados"
+    },
+    {
+        "id": 2,
+        "nome": "Invertebrados"
+    }
+    ]
+}
